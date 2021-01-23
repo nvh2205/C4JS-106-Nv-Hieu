@@ -87,5 +87,6 @@ alert(`The circle area is ${Acreage*Acreage*3.14}`);
 //Câu 10:
  let Temperature=Number(prompt("Enter the temperature in Celcius"));
  alert(`${Temperature}(C) = ${1.8* Temperature +32}(F)`);
-
+//////
+////hihihihihihihihihihih
 
